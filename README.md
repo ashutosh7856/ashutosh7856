@@ -3,27 +3,28 @@ v# I'm Ashutosh Kumar
 
 ## About Me
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-> "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
-
-
-
+>As Albert Einstein said, “The only source of knowledge is experience.” So keep learning, keep coding, and never stop seeking out new sources of inspiration and knowledge in the world of programming
+##
 I am a passionate software developer who loves to code and explore new technologies. My interests include artificial intelligence, 👯Backend development, and problem-solving. I have solved 100+ problems on LeetCode, constantly improving my coding skills and knowledge of data structures and algorithms.
 
 - 🌱Artificial Intelligence & Machine Learning Enthusiast**
-- 💞️ I’m looking for a frontend developer to collaborate for my blogging website (gigcel.com).
+- 💞️ I’m looking for Bloggers to collaborate for my blogging website (gigcel.com).
 
 ## Tech Stacks
+```c++
 int main() {
-  cout << "Intermediate in C++ "<< std::endl();
+     cout << "Intermediate in C++ "<< std::endl();
+    
 }
-
-if __name__ == "__main__":
-  print("Familier with python and c")
-
+  ```
+```python
+if name == "main":
+    print("Familier with python and c")
+```
+```python
 def web_frameworks():
-   print("Flask" + "RESTAPIs")
-   
+    print("Flask" + "RESTAPIs")
+```
 ## Projects
 Check out my repositories to see my latest work on AI, machine learning, and Web development projects.
 

@@ -5,10 +5,10 @@ v# I'm Ashutosh Kumar
 
 >As Albert Einstein said, “The only source of knowledge is experience.” So keep learning, keep coding, and never stop seeking out new sources of inspiration and knowledge in the world of programming
 ##
-I am a passionate software developer who loves to code and explore new technologies. My interests include artificial intelligence, 👯Backend development, and problem-solving. I have solved 100+ problems on LeetCode, constantly improving my coding skills and knowledge of data structures and algorithms.
+I am a passionate software developer who loves to code and explore new technologies. My interests include Blockchain, 👯Backend development, and problem-solving. I have solved 100+ problems on LeetCode, constantly improving my coding skills and knowledge of data structures and algorithms.
 
-- 🌱Artificial Intelligence & Machine Learning Enthusiast**
-- 💞️ I’m looking for Bloggers to collaborate for my blogging website (gigcel.com).
+- 🌱Web3 and Blockchain **
+- 💞️ I’m looking for Bloggers to collaborate on new stuff and make something meaningful.
 
 ## Tech Stacks
 ```c++
@@ -17,16 +17,14 @@ int main() {
     
 }
   ```
-```python
-if name == "main":
-    print("Familier with python and c")
+```Javascript
+()=>{
+   console.log('Familier with Typescript/Javascript')
+}
 ```
-```python
-def web_frameworks():
-    print("Flask" + "RESTAPIs")
-```
+
 ## Projects
-Check out my repositories to see my latest work on AI, machine learning, and Web development projects.
+Check out my repositories to see my latest work on MERN, WEB3, and Blockchain projects.
 
 ## Contact
 -  📫Email: ashutoshkkr60@gmail.com
